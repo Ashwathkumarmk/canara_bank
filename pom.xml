@@ -4,6 +4,6 @@
   <artifactId>tcs-app</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
-	  <finalName>pwd-service-1.0</finalName>
+	  <finalName>pwd-service-app</finalName>
   </build>
 </project>
